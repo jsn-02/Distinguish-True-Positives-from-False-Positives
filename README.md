@@ -1,4 +1,4 @@
-# Distinguishing-True-Positives-from-False-Positives
+# Distinguish True Positives from False Positives
 
 ## Scenario
 
